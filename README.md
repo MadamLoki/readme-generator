@@ -1,23 +1,80 @@
-# Professional README.md Generator ![License](https://img.shields.io/badge/License-GPL-blue.svg)
+# Professional README Generator
+
 ## Description
-This project uses node.js to provide prompts and create a professional style README.md for Github Repositories
+
+A command-line application that dynamically generates a professional README.md file from user input. This tool streamlines the process of creating comprehensive documentation for your projects, ensuring consistency and completeness in README files.
+
 ## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution](#contribution)
-* [Tests](#tests)
-* [License](#license)
-* [Questions](#questions)
+
+- [Professional README Generator](#professional-readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Technologies Used](#technologies-used)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
 ## Installation
-This project can be used and installed via Visual Studio Code
+
+Clone the repository to your local machine
+Navigate to the project directory
+Run npm install to install dependencies
+Ensure you have Node.js installed on your system
+
 ## Usage
 
-## Contribution
+Open your terminal
+Navigate to the project directory
+Run the command: node index.js
+Follow the prompts to input your project information
+Once completed, a README.md file will be generated in the project directory
+
+## Features
+
+- Interactive command-line interface
+- Automated README generation
+- Support for multiple license types
+- Dynamic badge generation
+- Clickable table of contents
+- Professional formatting
+- GitHub profile linking
+- Contact information section
+
+## Demo
+
+Link to Video Walkthrough
+
+## Technologies Used
+
+Node.js
+Inquirer.js
+File System (fs) module
+JavaScript ES6+
+NPM
+
+## License
+
+This project is covered under the MIT license.
+
+## Contributing
+
+Forsk the repository
+Create a new branch
+Make your changes
+Submit a pull request
 
 ## Tests
-In VSC via the CLI run npi
-## License
-This project is covered under the GPL license.
+
+Runs the following command to test the application:
+npm test
+
 ## Questions
-For any questions, please contact me at adsjkgfh.
-GitHub: [so nso](http://github.com/so nso)
+
+For any questions about the project, please contact me:
+GitHub:
+Email:
