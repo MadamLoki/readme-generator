@@ -65,7 +65,7 @@ function init() {
         .prompt(questions)
         .then((answers) => {
             const readme = generateReadme(answers);
-            writeToFile('README.md', readme);    
+            writeToFile('READMEtemplate.md', readme);    
     }, (err) => {
         console.log(err);
     });
