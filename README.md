@@ -15,24 +15,22 @@ A command-line application that dynamically generates a professional README.md f
   - [Demo](#demo)
   - [Technologies Used](#technologies-used)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Tests](#tests)
-  - [Questions](#questions)
 
 ## Installation
 
-Clone the repository to your local machine
-Navigate to the project directory
-Run npm install to install dependencies
+Clone the repository to your local machine </br>
+Navigate to the project directory </br>
+Run ``npm install`` to install dependencies </br>
 Ensure you have Node.js installed on your system
 
 ## Usage
 
-Open your terminal
-Navigate to the project directory
-Run the command: node index.js
-Follow the prompts to input your project information
-Once completed, a README.md file will be generated in the project directory
+Open your terminal </br>
+Navigate to the project directory </br>
+Run the command: ``node index.js`` </br>
+Follow the prompts to input your project information </br>
+Once completed, a README.md file will be generated in the project  directory.
 
 ## Features
 
@@ -51,30 +49,17 @@ Link to Video Walkthrough
 
 ## Technologies Used
 
-Node.js
-Inquirer.js
-File System (fs) module
-JavaScript ES6+
-NPM
+> Node.js </br>
+> Inquirer.js </br>
+> File System (fs) module </br>
+> JavaScript </br>
+> NPM
 
 ## License
 
-This project is covered under the MIT license.
-
-## Contributing
-
-Forsk the repository
-Create a new branch
-Make your changes
-Submit a pull request
+None
 
 ## Tests
 
 Runs the following command to test the application:
-npm test
-
-## Questions
-
-For any questions about the project, please contact me:
-GitHub:
-Email:
+``npm test``
